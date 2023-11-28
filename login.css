@@ -1,0 +1,28 @@
+.well{
+    border-radius: 10px;
+    text-align: center;
+    color:bisque;
+}
+.all{
+    border-radius: 10px;
+    
+    margin: 0 auto;
+    border: 2px solid #F6F1EE;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    background: #4F4A45;
+}
+html{
+    background: brown;
+}
+h2{
+    color: white;
+}
+.id-pass{
+    color: white;
+}
+.checkbox{
+    font-size: small;
+    color: aliceblue;
+}
